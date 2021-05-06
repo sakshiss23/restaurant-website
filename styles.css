@@ -1,0 +1,106 @@
+/* FONTS */
+body{
+    font-family: 'Merriweather', serif;
+}
+.font{
+    font-family: 'Sacramento', cursive;
+    font-size: 4.5rem;
+    font-weight: bold;
+    line-height: 2;
+}
+h1,h2,h3{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+}
+.wel{
+    font-family: 'Merienda One', cursive;
+    line-height: 3.5;
+    padding-top: 15%;
+}
+/* sections */
+.colored-section{
+    background-color:#ff0022;
+    color: #fff;
+}
+.container-fluid{
+    padding: 2% 7% 7%;
+}
+.top-container{
+    margin-left: 25%;
+    text-align: center;
+}
+
+.fab:hover{
+    color: green;
+
+}
+.fas:hover{
+    color: #f0c808;
+}
+.icon{
+    padding: 10% 0 10%;
+    margin-left: 5%;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.1rem;
+    font-family: "Montserrat-Light";
+}
+.navbar-brand{
+    font-family: 'Caveat', cursive;
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: left;
+    
+}
+.navbar-changes{
+    background-color: black;
+    
+}
+.img{
+    border-radius: 100%;
+    width: 20%;
+}
+.img1{
+    width: 14%;
+float: left;
+}
+.img-chef{
+    width: 10%;
+}
+
+.about-cafe.about-chef.about-menu{
+    text-align: left;
+}
+.menu-img{
+    border-radius: 30%;
+    width: 30%;
+    float: left;
+    
+}
+
+p{
+    color: gray;
+    line-height: 2.5;
+    word-spacing: 12px;
+    text-align: left;
+}
+.menu-section{
+    padding: 7% 3% 7% 5%;
+}
+.time{
+    text-align: center;
+    padding: 5% 3% 3% 5%;
+}
+
+#gallery{
+    text-align: center;
+    padding: 7% 3% 7% 5%;
+}
+
+
+
+
+
